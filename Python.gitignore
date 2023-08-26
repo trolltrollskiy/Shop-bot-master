@@ -6,6 +6,7 @@ config.py
 .env
 # C extensions
 *.so
+database.db
 
 # Distribution / packaging
 .Python
